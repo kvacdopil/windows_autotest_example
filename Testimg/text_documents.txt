@@ -1,0 +1,3 @@
+test file txt
+bla bla bla bla
+Зачем ты смотришь этот файл?
